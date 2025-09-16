@@ -1,12 +1,11 @@
-Flask
+flask
 flask-cors
-requests
 gunicorn
+uvicorn
 ccxt
 pandas
 numpy
-pytz
-tzdata
-tqdm
-six
+python-dateutil
+requests
 pandas-ta
+tzdata
