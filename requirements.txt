@@ -1,0 +1,12 @@
+Flask
+flask-cors
+requests
+gunicorn
+ccxt
+pandas
+numpy
+pytz
+tzdata
+tqdm
+six
+pandas-ta
